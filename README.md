@@ -66,10 +66,8 @@
       <dd>Schematic design file by Autodesk Eagle</dd>
     </dl>
     </p>
-              
-    <h2>Documentation</h2>
-      <p>
-                </table>
+            
+          </table>
           <details>
             <summary>Materials</summary>
         The below shows the components actually mounted on the CHULSU-OP4 equipped MainBoard in SRCIRC2024. Their details are listed below.
