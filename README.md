@@ -53,3 +53,16 @@
         </tr>
       </table>
     </p>
+    <h2>Repository Contents</h2>
+    <p>
+    <dl>
+      <dt>\image</dt>
+      <dd>PCB preview images and capture of design screen</dd>
+      <dt>\libraries</dt>
+      <dd>Libraries used in Altium designer</dd>
+      <dt>Schematic.pdf</dt>
+      <dd>Circuit diagram of this product</dd>
+      <dt>.sch</dt>
+      <dd>Schematic design file by Autodesk Eagle</dd>
+    </dl>
+    </p>
