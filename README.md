@@ -60,7 +60,7 @@
       <dd>PCB preview images and capture of design screen</dd>
       <dt>\libraries</dt>
       <dd>Libraries used in Altium designer</dd>
-      <dt>Schematic.pdf</dt>
+      <dt>\Schematic</dt>
       <dd>Circuit diagram of this product</dd>
       <dt>.sch</dt>
       <dd>Schematic design file by Autodesk Eagle</dd>
