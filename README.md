@@ -15,9 +15,16 @@
       <table>
         <tr>
           <td>
-            <a href="image/SRCIRC24_MainBoard.png">
+            <a href="image/SRCIRC24_MainBoard(Front).png">
               <div align="center">
-                <img src="image/SRCIRC24_MainBoard.png" width="320px">
+                <img src="image/SRCIRC24_MainBoard(Front).png" width="320px">
+              </div>
+            </a>
+          </td>
+          <td>
+            <a href="image/SRCIRC24_MainBoard(Back).png">
+              <div align="center">
+                <img src="image/SRCIRC24_MainBoard(Back).png" width="320px">
               </div>
             </a>
           </td>
@@ -37,17 +44,22 @@
         <tr>
           <td>
             <div align="center">
-              PCB preview image
+              PCB preview image(Front)
             </div>
           </td>
           <td>
             <div align="center">
-              After mounting electronic components
+              PCB preview image(Back)
             </div>
           </td>
           <td>
             <div align="center">
-              After attaching module board
+              After mounting electronic components(Front)
+            </div>
+          </td>
+          <td>
+            <div align="center">
+              After mounting electronic components(Back)
             </div>
           </td>     
         </tr>
