@@ -76,7 +76,7 @@
             <thead>
               <tr>
                 <th> Design Parts </th>
-                <th> Q'ty </th>
+                <th> Quantity </th>
                 <th> Comment </th>
                 <th> Supplier </th>
                 <th> Description </th>
