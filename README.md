@@ -61,9 +61,7 @@
       <dt>\libraries</dt>
       <dd>Libraries used in Altium designer</dd>
       <dt>\Schematic</dt>
-      <dd>Circuit diagram of this product</dd>
-      <dt>.sch</dt>
-      <dd>Schematic design file by Autodesk Eagle</dd>
+      <dd>Schematic design file by Altium designer</dd>
     </dl>
     </p>
     <h2>Documentation</h2>
