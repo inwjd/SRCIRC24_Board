@@ -82,25 +82,25 @@
             </thead>
             <tbody>
               <tr>
-                <td>C1, C2, C3, C4, C5, C6</td>
-                <td>6</td>
-                <td>C1608JB1H104K</td>
-                <td><a href="https://akizukidenshi.com/catalog/g/gP-06166/">Akizuki</a></td>
+                <td>R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R13, R14, R15, R16, R17</td>
+                <td>17</td>
+                <td>SMD_Resistor</td>
+                <td><a href="https://www.devicemart.co.kr/goods/view?no=6061">DEVICEMART</a></td>
                 <td>Multilayer Ceramic Capacitors SMD/SMT 0.1uF 50V 10% 0603</td>
               </tr>
-              <tr>
+<!--               <tr>
                 <td>C11,C15</td>
                 <td>2</td>
                 <td>UWT1E221MNL1GS</td>
                 <td><a href="https://akizukidenshi.com/catalog/g/gP-10420/">Akizuki</a></td>
-                <td>Aluminum Electrolytic Capacitors SMD/SMT 220uF 25V 20% AEC-Q200</td>
-              </tr>
+                <td>ChipResistor SMD F 1KΩ</td>
+              </tr> -->
               <tr>
-                <td>C12,C14</td>
+                <td>C1,C2</td>
                 <td>2</td>
-                <td>GRM188R71E105KA12</td>
-                <td><a href="https://akizukidenshi.com/catalog/g/gP-14526/">Akizuki</a></td>
-                <td>Multilayer Ceramic Capacitors SMD/SMT 1uF 25V 10% 0603</td>
+                <td>MC0603B104K500CT</td>
+                <td><a href="https://www.devicemart.co.kr/goods/view?no=12031936">DEVICEMART</a></td>
+                <td> CAPACITOR CERAMIC, 0.1UF, 50V, X7R, 10%</td>
               </tr>
               <tr>
                 <td>C13</td>
