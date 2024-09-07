@@ -112,7 +112,7 @@
               <tr>
                 <td>D2,D3</td>
                 <td>2</td>
-                <td>Light Emitting Diode</td>
+                <td>LED</td>
                 <td><a href="https://www.devicemart.co.kr/goods/view?no=14047555">DEVICEMART</a></td>
                 <td>Chip LED 2V 25mA 65mW 120mcd red 1608</td>
               </tr>
