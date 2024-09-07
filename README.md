@@ -70,6 +70,8 @@
       <p>
         <h3>Materials</h3>
         The below shows the components actually mounted on the CHULSU-OP4 equipped MainBoard in SRCIRC2024. Their details are listed below.
+      <br>
+      <br>
           <table>
             <thead>
               <tr>
